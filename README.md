@@ -4,3 +4,4 @@
 3. [Basic Lists and Loops](/basic_loops_lists.py)
 4. [Basic File Handling](/file_handling.py)
 5. [Modules tutorial](/Modules.py) : A basic introduction to Python Modules
+6. [Regex tutorial](/Regex.py) 
