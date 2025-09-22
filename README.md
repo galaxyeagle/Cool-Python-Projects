@@ -5,4 +5,5 @@
 4. [Basic File Handling](/file_handling.py)
 5. [Modules tutorial](/Modules.py) : A basic introduction to Python Modules
 6. [Regex tutorial](/Regex.py)
-7. [OOP basics](/OOP.ipynb) 
+7. [OOP basics](/OOP.ipynb)
+8. [OOP Exercises](/OOP_Exercises.ipynb)
