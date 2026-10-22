@@ -7,3 +7,4 @@
 6. [Regex tutorial](/Regex.py)
 7. [OOP basics](/OOP.ipynb)
 8. [OOP Exercises](/OOP_Exercises.ipynb)
+9. [Carbon West Data Analysis](/carbon_west.ipynb)
