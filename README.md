@@ -8,3 +8,4 @@
 7. [OOP basics](/OOP.ipynb)
 8. [OOP Exercises](/OOP_Exercises.ipynb)
 9. [Carbon West Data Analysis](/carbon_west.ipynb)
+10.[US Murder Rates](/US_Murder_Rates.ipynb)
